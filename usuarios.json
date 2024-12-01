@@ -1,0 +1,73 @@
+[
+    {
+      "rut": "17506495-8",
+      "nombre_completo": "Veronica Cabezas Marín",
+      "correo": "ve.cabezas@duocuc.cl",
+      "nombre_usuario": "VeroAdmin",
+      "clave": "pas123"
+    },
+    {
+      "rut": "8390972-0",
+      "nombre_completo": "María López Rojas",
+      "correo": "maria.lopez@example.com",
+      "nombre_usuario": "marialopez",
+      "clave": "clave456"
+    },
+    {
+      "rut": "34567890-1",
+      "nombre_completo": "Carlos Sánchez Muñoz",
+      "correo": "carlos.sanchez@example.com",
+      "nombre_usuario": "carlossanchez",
+      "clave": "clave789"
+    },
+    {
+      "rut": "45678901-2",
+      "nombre_completo": "Ana Martínez Fernández",
+      "correo": "ana.martinez@example.com",
+      "nombre_usuario": "anamartinez",
+      "clave": "clave321"
+    },
+    {
+      "rut": "56789012-3",
+      "nombre_completo": "Luis Ramírez Silva",
+      "correo": "luis.ramirez@example.com",
+      "nombre_usuario": "luisramirez",
+      "clave": "clave654"
+    },
+    {
+      "rut": "67890123-4",
+      "nombre_completo": "Sofía Torres Campos",
+      "correo": "sofia.torres@example.com",
+      "nombre_usuario": "sofiatorres",
+      "clave": "clave987"
+    },
+    {
+      "rut": "78901234-5",
+      "nombre_completo": "José Fernández Díaz",
+      "correo": "jose.fernandez@example.com",
+      "nombre_usuario": "josefernandez",
+      "clave": "clave1234"
+    },
+    {
+      "rut": "89012345-6",
+      "nombre_completo": "Camila Castillo Vega",
+      "correo": "camila.castillo@example.com",
+      "nombre_usuario": "camilacastillo",
+      "clave": "clave5678"
+    },
+    {
+      "rut": "90123456-7",
+      "nombre_completo": "Francisco Morales Pino",
+      "correo": "francisco.morales@example.com",
+      "nombre_usuario": "franciscomorales",
+      "clave": "clave9876"
+    },
+    {
+      "rut": "12345679-8",
+      "nombre_completo": "Isabel Guzmán Ortiz",
+      "correo": "isabel.guzman@example.com",
+      "nombre_usuario": "isabelguzman",
+      "clave": "clave4321"
+    }
+  ]
+  
